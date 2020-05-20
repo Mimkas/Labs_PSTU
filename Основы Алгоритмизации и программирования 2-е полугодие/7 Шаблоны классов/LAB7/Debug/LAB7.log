@@ -1,0 +1,5 @@
+﻿  LAB7.cpp
+C:\Users\Rashak\source\repos\LAB7\LAB7\LAB7.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Rashak\source\repos\LAB7\LAB7\Vector.h(64): warning C4715: Vector<int>::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\Rashak\source\repos\LAB7\LAB7\Vector.h(64): warning C4715: Vector<time>::operator[]: значение возвращается не при всех путях выполнения
+  LAB7.vcxproj -> C:\Users\Rashak\source\repos\LAB7\Debug\LAB7.exe
