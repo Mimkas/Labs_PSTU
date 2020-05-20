@@ -1,0 +1,4 @@
+﻿  LAB12.3.cpp
+C:\Users\Rashak\source\repos\LAB12\LAB12.3\LAB12.3.cpp(33,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Rashak\source\repos\LAB12\LAB12.3\Vector.h(63): warning C4715: Vector<time>::Return: значение возвращается не при всех путях выполнения
+  LAB12.3.vcxproj -> C:\Users\Rashak\source\repos\LAB12\Debug\LAB12.3.exe

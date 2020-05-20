@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (LAB12.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  LAB12.1.cpp
+C:\Users\Rashak\source\repos\LAB12\LAB12\LAB12.1.cpp(14,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Rashak\source\repos\LAB12\LAB12\LAB12.1.cpp(81,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LAB12.vcxproj -> C:\Users\Rashak\source\repos\LAB12\Debug\LAB12.1.exe
