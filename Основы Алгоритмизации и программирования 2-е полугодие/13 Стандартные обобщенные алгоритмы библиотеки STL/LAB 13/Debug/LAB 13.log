@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (LAB 13.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  LAB 13.cpp
+C:\Users\Rashak\source\repos\LAB 13\LAB 13\LAB 13.cpp(67,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LAB 13.vcxproj -> C:\Users\Rashak\source\repos\LAB 13\Debug\LAB 13.1.exe
