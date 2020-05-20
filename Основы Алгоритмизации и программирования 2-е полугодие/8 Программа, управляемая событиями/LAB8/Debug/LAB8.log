@@ -1,0 +1,3 @@
+﻿  LAB8.cpp
+C:\Users\Rashak\source\repos\LAB8\LAB8\LAB8.cpp(10,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LAB8.vcxproj -> C:\Users\Rashak\source\repos\LAB8\Debug\LAB8.exe
